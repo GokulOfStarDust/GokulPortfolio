@@ -90,14 +90,6 @@ Suggestions and improvements are welcome! If you’d like to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## 📞 Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- Email: [badrinarayan.moola@gmail.com](mailto:badrinarayan.moola@gmail.com)
-- LinkedIn: [Badri Narayan M S](https://www.linkedin.com/in/badri-narayan-m-s-60bab42a2/)
-- GitHub: [@badrinarayanms](https://github.com/badrinarayanms)
-
 ---
 
 Thank you for visiting my portfolio! 😊
