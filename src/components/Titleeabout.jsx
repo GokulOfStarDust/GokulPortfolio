@@ -305,72 +305,86 @@ const Titlee = () => {
       <div className='w-full overflow-y-hidden overflow-hidden h-screen'>
       <div className="flex flex-col w-full  items-center relative   h-44 md:h-64">
         
-        <div className="w-screen md:mt-36 mt-24 ">
-            <div className="   overflow-hidden  -rotate-[8deg] md:-rotate-6  w-[120vw] -mx-4">
-              <div className="flex whitespace-nowrap sidec scrolling-container">
-              <p className="text-[#5B5555]  font-coolvetica  text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m scrolling-text-right">
-              WEB DEVELOPER</p>
-                 <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #FF535B', 
-              }} className="font-coolvetica text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m scrolling-text-right mr-36">
-                 UI/UX DESIGNER</p>
-                   <p className="text-[#5B5555] font-coolvetica  text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m  scrolling-text-right  mr-12">
-                   WEB DEVELOPER</p>
-                   <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #FF535B', 
-              }} className="font-coolvetica text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center  items-center  md:word-spacing word-spacing-m scrolling-text-right mr-4">
-                 UI/UX DESIGNER</p>
-              </div>
-            </div>
-        </div>
-        <div className="w-screen">
-            <div className=" py-2   overflow-hidden  -rotate-[8deg] md:-rotate-6  -my-2  w-[120vw] -mx-4 ">
-              <div className="flex whitespace-nowrap sidec scrolling-container">
-              <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #5B5555', 
-              }} className="font-coolvetica flex justify-center items-center text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium  md:word-spacing word-spacing-m scrolling-text">
-                WEB DEVELOPER</p>
-                <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #5B5555', 
-              }} className="text-[#5B5555] font-coolvetica flex justify-center items-center  text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium md:word-spacing word-spacing-m mr-16  scrolling-text">
-                   UI/UX DESIGNER</p>
-                 <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #5B5555', 
-              }} className="font-coolvetica flex justify-center items-center text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium  md:word-spacing word-spacing-m scrolling-text ">
-                   WEB DEVELOPER</p>
-                   <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #5B5555', 
-              }} className="text-[#5B5555] font-coolvetica flex justify-center items-center  text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium md:word-spacing word-spacing-m scrolling-text">
-                   UI/UX DESIGNER</p>
-              </div>
-              
-            </div>
-        </div>
-        <div className="w-screen ">
-            <div className="   overflow-hidden  -rotate-[8deg] md:-rotate-6    w-[120vw] -mx-4">
-              <div className="flex whitespace-nowrap sidec scrolling-container">
-              <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #5B5555', 
-              }} className="font-coolvetica text-8xl md:text-[10rem]   lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m scrolling-text-right">
-              WEB DEVELOPER</p>
-                 <p className="text-[#FF535B] font-coolvetica text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m scrolling-text-right mr-36">
-                 UI/UX DESIGNER</p>
-                   <p style={{
-                color:' #1d1d1d', 
-                WebkitTextStroke:  '2px #FF535B', 
-              }}  className="font-coolvetica  text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m scrolling-text-right  mr-16">
-                   WEB DEVELOPER</p>
-                   <p className="text-[#FF535B] font-coolvetica text-8xl md:text-[10rem]  lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center  md:word-spacing word-spacing-m scrolling-text-right">
-                 UI/UX DESIGNER</p>
-              </div>
-            </div>
+        <div className="w-screen md:mt-36 mt-24">
+  <div className="overflow-hidden -rotate-6 w-[110vw] mx-auto">
+    <div className="flex whitespace-nowrap sidec scrolling-container">
+      <p className="text-[#5B5555] font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right">
+        WEB DEVELOPER
+      </p>
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #FF535B' }}
+        className="font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right"
+      >
+        TECH ENTHUSIAST
+      </p>
+      <p className="text-[#5B5555] font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right">
+        WEB DEVELOPER
+      </p>
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #FF535B' }}
+        className="font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right"
+      >
+        TECH ENTHUSIAST
+      </p>
+    </div>
+  </div>
+</div>
+
+<div className="w-screen">
+  <div className="py-2 overflow-hidden -rotate-6 -my-2 w-[110vw] mx-auto">
+    <div className="flex whitespace-nowrap sidec scrolling-container">
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #5B5555' }}
+        className="font-coolvetica flex justify-center items-center text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium mr-40 scrolling-text"
+      >
+        WEB DEVELOPER
+      </p>
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #5B5555' }}
+        className="text-[#5B5555] font-coolvetica flex justify-center items-center text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium mr-40 scrolling-text"
+      >
+        TECH ENTHUSIAST
+      </p>
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #5B5555' }}
+        className="font-coolvetica flex justify-center items-center text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium mr-40 scrolling-text"
+      >
+        WEB DEVELOPER
+      </p>
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #5B5555' }}
+        className="text-[#5B5555] font-coolvetica flex justify-center items-center text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium scrolling-text"
+      >
+        TECH ENTHUSIAST
+      </p>
+    </div>
+  </div>
+
+<div className="w-screen">
+  <div className="overflow-hidden -rotate-6 w-[110vw] mx-auto">
+    <div className="flex whitespace-nowrap sidec scrolling-container">
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #5B5555' }}
+        className="font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right"
+      >
+        WEB DEVELOPER
+      </p>
+      <p className="text-[#FF535B] font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right">
+        TECH ENTHUSIAST
+      </p>
+      <p
+        style={{ color: '#1d1d1d', WebkitTextStroke: '2px #FF535B' }}
+        className="font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center mr-40 scrolling-text-right"
+      >
+        WEB DEVELOPER
+      </p>
+      <p className="text-[#FF535B] font-coolvetica text-8xl md:text-[10rem] lg:text-[9rem] min-[600px]:text-[8rem] xxl:text-[18rem] font-medium flex justify-center items-center scrolling-text-right">
+        TECH ENTHUSIAST
+      </p>
+    </div>
+  </div>
+</div>
+
             <div className='w-full sidec flex items-center justify-center  lg:justify-end p-20 mt-1rem min-[600px]:mt-[4rem] min-[800px]:mt-[10rem] md:mt-[1rem] min-[800px]:justify-center xl:-mt-32 xxl:mt-0'><p className="bg-[#5B5555] bg-opacity-15 px-4 h-14 py-0  rounded-full flex items-center justify-end overflow-hidden text-xl text-justify text-[#ff535b] md:text-2xl font-coolvetica">
         Scroll down <svg className="rotate-90  w-3 h-6 lg:w-5 lg:h-10 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
   <path
@@ -392,12 +406,16 @@ const Titlee = () => {
       <div className="flex flex-col justify-center items-center min-[600px]:-mt-88 md:-mt-56  min-[800px]:-mt-80 -mt-56  xl:-mt-6 xxl:-mt-56 lg:justify-center lg:mt-16 lg:items-start px-6 md:px-20   ">
         
         <div className="abt w-full flex flex-col overflow-hidden pb-3 gap-2">
-        <div className='overflow-hidden'><h1 className="  w-full overflow-hidden text-5xl text-justify text-[#ff535b] md:text-4xl lg:text-7xl xl:text-8xl 2xl:text-8xl font-coolvetica">
-        Who am i ?</h1></div>
-        <div className='overflow-hidden'><h1 className=" text-sm overflow-hidden sm:text-5xl text-[#ffff] text-justify md:text-2xl lg:text-3xl xxl:text-7xl xl:text-4xl 2xl:text-3xl font-coolvetica">
-          Hello! I'm Badri ms , a passionate developer with a strong foundation in computer science and a flair for creating efficient, user-friendly applications.</h1></div>
+        <div className='overflow-hidden'><h1 className=" my-10 w-full overflow-hidden text-5xl text-justify text-[#ff535b] md:text-4xl lg:text-7xl xl:text-8xl 2xl:text-8xl font-coolvetica">
+        WHO AM I ?</h1></div>
+        <div className='overflow-hidden'><h1 className="w-[90%] pt-4 text-sm overflow-hidden sm:text-5xl text-[#ffff] text-justify md:text-2xl lg:text-3xl xxl:text-7xl xl:text-4xl 2xl:text-3xl font-coolvetica">
+           Hey! I'm Gokul — a curious developer, space enthusiast, and problem-solver who loves blending code with creativity to build meaningful digital experiences.</h1></div>
 
-          <div className='overflow-hidden'><h1 className="text-sm overflow-hidden sm:text-5xl text-[#ffff] md:text-2xl lg:text-3xl xxl:text-7xl xl:text-4xl 2xl:text-3xl font-coolvetica">Currently pursuing my B.Tech in Computer Science and Engineering at SRM Institute of Science and Technology, I'm driven by the endless possibilities that technology offers.</h1></div>
+          <div className='overflow-hidden w-[80%]'>
+            <h1 className="text-sm sm:text-5xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-3xl xxl:text-7xl text-white font-coolvetica overflow-hidden text-justify">
+  I'm currently pursuing a B.Sc. in Computer Science at PSG College of Arts & Science. From open-source tools to astrophotography and full-stack dev, I chase ideas that spark impact.
+</h1>
+          </div>
           
         </div>
         
@@ -407,21 +425,21 @@ const Titlee = () => {
       <div className="flex w-full flex-col justify-center mt-0 md:mr-20 md:mt-10 lg:justify-center lg:mt-16 items-start px-6 md:px-20 xl:mr-36 xl:justify-center xxl:mt-[200px]">
         
         <div className="skill flex flex-col  overflow-hidden pb-3 gap-4">
-        <div className='overflow-hidden flex '><h1 className=" text-5xl  overflow-hidden sm:text-5xl text-[#ff535b] md:text-4xl lg:text-7xl xl:text-8xl 2xl:text-8xl font-coolvetica">
-        Tech Stack</h1></div>
+        <div className='overflow-hidden flex '><h1 className="py-10 pt-28 text-5xl  overflow-hidden sm:text-5xl text-[#ff535b] md:text-4xl lg:text-7xl xl:text-8xl 2xl:text-8xl font-coolvetica">
+        TECH STACK</h1></div>
        
           
         </div>
         <div className="skillset w-full flex flex-col overflow-hidden pb-3 gap-4"> 
   <div className='overflow-hidden'>
     <h1 className=" text-3xl overflow-hidden sm:text-5xl text-[#ffff] md:text-4xl lg:text-5xl xl:text-8xl 2xl:text-8xl font-coolvetica">
-      <AiFillHtml5 className="inline mr-2" /> html
+      <AiFillHtml5 className="inline mr-2" /> Html
     </h1>
     <div className='line w-full mt-4 h-[0.1rem] bg-white'></div>
   </div>
   <div className='overflow-hidden'>
     <h1 className=" text-3xl overflow-hidden sm:text-5xl text-[#ffff] md:text-4xl lg:text-5xl xl:text-8xl 2xl:text-8xl font-coolvetica">
-      <DiCss3 className="inline mr-2" /> css
+      <DiCss3 className="inline mr-2" /> CSS
     </h1>
     <div className='line w-full mt-4 h-[0.1rem] bg-white'></div>
   </div>
@@ -507,12 +525,12 @@ const Titlee = () => {
       
     <div className="abtbtm w-full md:mt-10 mb-3 md:px-20 p-3 flex justify-between">
     <a
-      href="mailto:badrinarayan.moola@gmail.com"
+      href="mailto:gokulgopalan18@gmail.com"
       target="_blank"
       rel="noopener noreferrer"
       className="abtbtm z-10 mt-2 text-gray-900 bg-white duration-100 text-[0.5rem] hover:text-[#ff535b] border-gray-200 focus:ring-4 focus:outline-none focus:ring-gray-100 font-medium rounded-3xl  lg:text-xl py-1.3 px-2.5 md:px-5 md:py-2.5 text-center inline-flex items-center "
     >
-      badrinarayan.moola@gmail.com
+      gokulgopalan18@gmail.com
       <svg
         className="rtl:rotate-180 w-3.5 h-3.5 ms-2"
         aria-hidden="true"
@@ -533,7 +551,7 @@ const Titlee = () => {
     <div className="abtbtm flex mt-5 space-x-4">
      
       <a
-        href="https://www.linkedin.com/in/badri-narayan-m-s-60bab42a2/"
+        href="https://www.linkedin.com/in/gokul-g-046b51292/"
         target="_blank"
         rel="noopener noreferrer"
         className=" text-white hover:text-[#ff535b]"
@@ -543,7 +561,7 @@ const Titlee = () => {
 
       
       <a
-        href="https://www.instagram.com/badri__.ms"
+        href="https://www.instagram.com/theonefromthestardust/"
         target="_blank"
         rel="noopener noreferrer"
         className=" text-white  hover:text-[#ff535b]"
@@ -553,7 +571,7 @@ const Titlee = () => {
 
    
       <a
-        href="https://github.com/badrinarayanms"
+        href="https://github.com/GokulOfStarDust"
         target="_blank"
         rel="noopener noreferrer"
         className=" text-white  hover:text-[#ff535b]"
@@ -569,7 +587,7 @@ const Titlee = () => {
   <div className='foot overflow-hidden mb-12 px-20'>
    
         <h1 className="btn text-sm text-center overflow-hidden  xxl:text-5xl text-[#ffff] md:text-2xl lg:text-xl xl:text-2xl 2xl:text-xl font-coolvetica">
-        Designed with ❤️ by Badri M S</h1>
+        Designed with ❤️ by Gokul G</h1>
         </div>
 </div>    </>
   );
