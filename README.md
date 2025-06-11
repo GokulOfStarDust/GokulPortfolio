@@ -5,10 +5,6 @@
 
 Welcome to my personal portfolio website! This project is designed to introduce myself, showcasing a simple yet elegant interface with animations and interactive 3D elements.
 
-## 🚀 Live Demo
-
-Check out the live version of my portfolio here: [My Portfolio](https://badrims.pages.dev) (replace with your actual URL).
-
 ## 📋 Table of Contents
 
 - [Features](#-features)
